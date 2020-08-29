@@ -1,5 +1,7 @@
 # Spring Security using JWT (Json Web Token) in Spring Boot
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 This Project uses JWT to secure the REST endpoints.
 
 The Following are the REST end points available in the example.
