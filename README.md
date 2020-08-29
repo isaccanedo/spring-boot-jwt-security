@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-This Project uses JWT to secure the REST endpoints.
+_💡 This Project uses JWT to secure the REST endpoints.
 
 The Following are the REST end points available in the example.
 - `/token` - Generates the JWT token based on the JSON sent. Its a POST method which expects the JSON: `{ "username": "name", "id": 123, "role": "admin"}` 
