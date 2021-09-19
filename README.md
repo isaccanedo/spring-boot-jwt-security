@@ -1,4 +1,4 @@
-# Spring Security using JWT (Json Web Token) in Spring Boot
+# Spring Security usando JWT (Json Web Token) no Spring Boot
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
