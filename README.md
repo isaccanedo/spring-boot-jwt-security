@@ -6,4 +6,4 @@
 
 Este projeto usa JWT para proteger endpoints REST.
 - `/token` - Gera o token JWT com base no JSON enviado. É um método POST que espera o JSON: `{ "username": "name", "id": 123, "role": "admin"}` 
-- `/rest/hello` - Requires a JWT Token with Header `key - "Authorisation"` and `value - "Token <JWT_Token>"`
+- `/rest/hello` - Requer um token JWT com cabeçalho `key - "Authorisation"` and `value - "Token <JWT_Token>"`
