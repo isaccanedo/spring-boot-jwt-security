@@ -23,7 +23,7 @@ import java.util.Collections;
 @EnableWebSecurity
 @Configuration
 public class JwtSecurityConfig extends WebSecurityConfigurerAdapter {
-
+    //
 
     @Autowired
     private JwtAuthenticationProvider authenticationProvider;
